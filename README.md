@@ -42,4 +42,8 @@ local network can subscribe to in real time.
   (mosquitto_sub) or a phone dashboard app — can view live readings by
   subscribing to these topics : 
   sensors/dht11/temperature, sensors/dht11/humidity
+
+  ---
+
+  <img width="1080" height="2400" alt="Image" src="https://github.com/user-attachments/assets/e49c5240-602c-4ee8-ab28-5574e8c8333a" />
                                                               
