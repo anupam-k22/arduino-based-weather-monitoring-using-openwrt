@@ -6,10 +6,5 @@ self-hosted broker running on a Raspberry Pi (OpenWRT).
 ## Overview
 This project demonstrates a small but complete IoT data pipeline:
 
-DHT11 sensor -> Arduino -> USB Serial -> Python bridge -> MQTT publish
-                                                              |
-                                                              v
-                                             Mosquitto broker (Raspberry Pi, OpenWRT)
-                                                              |
-                                                              v
-                                             Subscribers (laptop / phone dashboard app)
+DHT11 sensor -> Arduino -> USB Serial -> Python bridge -> MQTT publish -> Mosquitto broker (Raspberry Pi, OpenWRT) -> Subscribers (laptop / phone dashboard app)
+                                                              
