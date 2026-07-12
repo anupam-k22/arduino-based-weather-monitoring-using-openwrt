@@ -40,7 +40,6 @@ local network can subscribe to in real time.
   on the local network.
 - Any subscriber on the same network — a command-line client
   (mosquitto_sub) or a phone dashboard app — can view live readings by
-  subscribing to these topics:
-  sensors/dht11/temperature
-  sensors/dht11/humidity
+  subscribing to these topics : 
+  sensors/dht11/temperature, sensors/dht11/humidity
                                                               
