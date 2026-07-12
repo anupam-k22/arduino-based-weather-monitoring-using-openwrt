@@ -1,3 +1,4 @@
+# Arduino based weather monitoring using OpenWRT
 
 An embedded systems project that reads live temperature and humidity data
 from a DHT11 sensor on an Arduino, and publishes it over MQTT using a
