@@ -45,5 +45,6 @@ local network can subscribe to in real time.
 
   ---
 
-  <img width="1080" height="2400" alt="Image" src="https://github.com/user-attachments/assets/e49c5240-602c-4ee8-ab28-5574e8c8333a" />
+ <img width="1080" height="1131" alt="Image" src="https://github.com/user-attachments/assets/78d37fbc-8d08-40dd-b040-3a14d3606a8f" />
+
                                                               
