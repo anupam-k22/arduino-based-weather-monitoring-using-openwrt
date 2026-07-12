@@ -36,7 +36,7 @@ local network can subscribe to in real time.
 - A Python script running on a connected computer reads these lines
   over USB serial, parses them, and publishes each value to its own MQTT
   topic via mosquitto_pub.
-- The Raspberry Pi, flashed with OpenWRT, runs Mosquitto as a
+- The Raspberry Pi, flashed with OpenWRT and connected to LAN, runs Mosquitto as a
   local MQTT broker — configured to accept connections from any device
   on the local network.
 - Any subscriber on the same network — a command-line client
